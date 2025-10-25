@@ -1,0 +1,12 @@
+5444226128317017|12|27|285 | APPROVED (ST) | Payment method added successfully | Stripe Auth | N/A
+4218082417456231|07|27|784 | APPROVED (PP) | Invalid Billing Address (AVS Error) | PayPal Gateway | N/A
+4002310174608797|12|31|436 | APPROVED (PY) | INVALID SECURITY CODE - CCN LIVE 🟢 | PayPal Direct Gateway | N/A
+4002310174607633|03|31|006 | APPROVED (PY) | INVALID SECURITY CODE - CCN LIVE 🟢 | PayPal Direct Gateway | N/A
+4848100065718609|08|26|536 | APPROVED (ST) | Payment method added successfully | Stripe Auth | N/A
+4842810530540216|09|27|384 | APPROVED (ST) | Payment method added successfully | Stripe Auth | N/A
+4842810530540216|09|27|384 | APPROVED (ST) | Payment method added successfully | Stripe Auth | N/A
+4842810238430009|08|28|278 | APPROVED (ST) | Payment method added successfully | Stripe Auth | N/A
+4842810238430009|08|28|278 | APPROVED (ST) | Payment method added successfully | Stripe Auth | N/A
+4663490008078308|12|26|930 | APPROVED (ST) | Payment method added successfully | Stripe Auth | N/A
+4848100065718609|08|26|536 | APPROVED (ST) | Payment method added successfully | Stripe Auth | N/A
+4842810530540216|09|27|384 | APPROVED (ST) | Payment method added successfully | Stripe Auth | N/A
