@@ -19,8 +19,8 @@ from chk_command import register_handlers as register_chk_handlers
 # Config
 API_ID = 22938404
 API_HASH = "1d0f1bc81aba5f2644d124e61453362c"
-BOT_TOKEN = "8457573508:AAHTXv1eMFpZhK7cYj54CGBIeBCZTS-K1og" # Your PayPal Bot Token
-ADMIN_ID = [8114477669] # Your Admin ID
+BOT_TOKEN = "8447045968:AAE8PTC8-YEU71M2seuNW0jKrmoBQBukdcU" # Your PayPal Bot Token
+ADMIN_ID = [7292047135] # Your Admin ID
 GROUP_ID = -1003105072248 # Replace with your Group ID
 
 # Files
