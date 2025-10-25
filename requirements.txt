@@ -6,3 +6,4 @@ httpx
 user_agent
 requests_toolbelt
 cloudscraper
+names
